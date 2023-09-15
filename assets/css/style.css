@@ -1,0 +1,56 @@
+
+  
+  .profile-pic img {
+    width: 25%;
+    height: auto;
+    border: 5px solid teal;
+position: relative;
+margin-left: 5%;
+  }
+abc{
+    position: fixed;
+}
+  .m5 {
+    margin: 5px;
+  }
+
+  .p10 {
+    padding: 10px;
+  }
+  
+  .p5
+  {
+    padding: 5px;
+  }
+.bgc{
+    background-color: rgba(243, 228, 228, 0.274);
+
+}
+main{
+    background-color: white;
+}
+  h3 {
+    font-weight: 200;
+    margin-top: 0;
+    padding: 10px 15px;
+    text-transform: uppercase;
+  }
+  .buttons
+  {
+    margin-top: 50px;
+  }
+  .social
+  {
+    margin-top: 25px;
+  }
+ 
+  .full-height {
+    height: 100vh;
+  }
+.fxul {
+    position: fixed;
+}
+ul li a:hover
+{
+    color: black;
+}
